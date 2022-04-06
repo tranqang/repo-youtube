@@ -1,3 +1,3 @@
-console.log("logic js file");
+console.log("logic js file add ....");
 
 //comment logic thieu
