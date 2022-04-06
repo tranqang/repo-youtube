@@ -1,8 +1,10 @@
 :root{
-    --background-color:#888;
-    --text-color:#e33;
+    --background-color:#ccc;
+    --text-color:#333;
+    --text-size:20px;
 }
 body{
+    padding: 20px;
     background-color: var(--background-color);
     color: var(--text-color);
 }
