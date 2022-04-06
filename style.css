@@ -1,6 +1,6 @@
 :root{
-    --background-color:black;
-    --text-color:white;
+    --background-color:#ccc;
+    --text-color:#333;
 }
 body{
     background-color: var(--background-color);
